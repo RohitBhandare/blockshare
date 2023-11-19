@@ -4,6 +4,12 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  variants: {
+    extend: {
+      // Enable the hover variant
+      scale: ['responsive', 'hover', 'focus'],
+    },
+  },
   theme: {
     extend: {},
   },

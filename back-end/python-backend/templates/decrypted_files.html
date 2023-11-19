@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Decrypted Files</title>
+</head>
+<body>
+    <h1>Decrypted Files</h1>
+    <ul>
+        {% for file in decrypted_files %}
+            <li>
+                <h3>{{ file['name'] }}</h3>
+                <iframe src="data:image/jpg;base64,{{ file['content'] }}" style="width: 100%; height: 500px;"></iframe>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
