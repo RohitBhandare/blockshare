@@ -38,7 +38,7 @@ This cloud file sharing application allows users to securely upload, store, and 
 
 - Node.js and npm installed globally
 - Python 3.x and pip installed
-- MongoDB installed and running locally
+- MySQL installed and running locally
 - Hardhat installed globally (`npm install -g hardhat`)
 
 ### Backend Setup
@@ -46,7 +46,7 @@ This cloud file sharing application allows users to securely upload, store, and 
 1. Navigate to `blockchain-backend` directory.
 2. Install dependencies using `npm install`.
 3. Start the backend server by running `npm start`.
-4. Ensure MongoDB is running locally.
+4. Ensure MySQL is running locally.
 
 ### Python Backend Setup
 
