@@ -30,7 +30,7 @@ This cloud file sharing application allows users to securely upload, store, and 
 - **Backend**: Python, Flask
 - **Blockchain Backend**: Hardhat
 - **Frontend**: React, Vite
-- **Database**: MongoDB
+- **Database**: MySQL
 
 ## Setup Instructions
 
