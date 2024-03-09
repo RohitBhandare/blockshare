@@ -73,3 +73,8 @@ This cloud file sharing application allows users to securely upload, store, and 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screen Shots
+
+![Screenshot (463)](https://github.com/RohitBhandare/blockshare/assets/92716110/141f7f38-26c7-417b-90c9-f2684f663955)
+
